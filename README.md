@@ -1,2 +1,5 @@
-# japan-market-dashboard
-Japanese stock market analysis dashboard
+# 日本株ダッシュボード
+
+GitHub Pages 用の試作版です。`index.html` をリポジトリ直下に置いてください。
+
+注意: 一部の指標は取得時点のスナップショットです。すべての指標が自動更新されるわけではありません。
